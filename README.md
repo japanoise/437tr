@@ -16,5 +16,5 @@ Using the provided .nfo file (thanks textfiles.com):
 
 Code licensed MIT. Included .NFO file is from [a public repository.][1]
 
-[1]: www.textfiles.com/piracy/NFO/
+[1]: http://www.textfiles.com/piracy/NFO/
 
